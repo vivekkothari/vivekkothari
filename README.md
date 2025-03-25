@@ -11,7 +11,7 @@
   - Always building...
 
 - 💬 Ask me about ...
-  - Java/Kotlin/Scala/Python/PHP/C/C++.
+  - Java/Kotlin/Scala/Python/PHP/Go.
   - Postgres, MySQL, SQLite, Vitess, Citus, MongoDB, Redis, Pinecone.
   - Elasticsearch.
   - SQS, RabbitMQ, Kafka, JMS.
